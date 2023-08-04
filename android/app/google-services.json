@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "233321347526",
+    "project_id": "amacle-manager-developer-app",
+    "storage_bucket": "amacle-manager-developer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233321347526:android:c48268eaaee12528749ac7",
+        "android_client_info": {
+          "package_name": "com.example.amacle_studio_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233321347526-n8emmlfhffkusm36n33rb5qn36qvi87t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amacle_studio_app",
+            "certificate_hash": "fca4f9d0643f0a0545fa85f0e8d307c1a9c981e3"
+          }
+        },
+        {
+          "client_id": "233321347526-pnskg218u7s9sml352es97g13039nt9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuVAHFL5qxKKX0hM4og_oe4ODdr2vneA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233321347526-2s72ih247878n8aijveo7f7b50oo1gp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233321347526-4cnodnl2ikrmuer3q0dfdt42t2mpjmt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clientAppAmacleStudio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233321347526:android:fdd6fd22fa4b5946749ac7",
+        "android_client_info": {
+          "package_name": "com.example.client_app_amacle_studio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233321347526-71m9he67um9dli0ft7dotsldue0qvsgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.client_app_amacle_studio",
+            "certificate_hash": "fca4f9d0643f0a0545fa85f0e8d307c1a9c981e3"
+          }
+        },
+        {
+          "client_id": "233321347526-pnskg218u7s9sml352es97g13039nt9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiuVAHFL5qxKKX0hM4og_oe4ODdr2vneA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233321347526-2s72ih247878n8aijveo7f7b50oo1gp4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "233321347526-4cnodnl2ikrmuer3q0dfdt42t2mpjmt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clientAppAmacleStudio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
